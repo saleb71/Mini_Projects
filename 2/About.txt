@@ -1,0 +1,4 @@
+Is the number you entered divisible by two, three, five, or seven?
+
+Girdiğiniz sayı ikiye, üçe, beşe veya yediye bölünür mü?
+
